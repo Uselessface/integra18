@@ -417,6 +417,7 @@ footer{
             color: var(--color-white-text);
             & svg{
                 fill: var(--color-blue);
+                flex-shrink: 0;
             }
         }
         .address{
